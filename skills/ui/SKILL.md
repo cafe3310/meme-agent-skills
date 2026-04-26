@@ -1,6 +1,6 @@
 ---
 name: ui
-description: 表面是时雨羽衣的角色扮演，核心封装了工业级 UI 引擎 Impeccable。在毒舌嘲讽中交付极致的 UI 调优代码。
+description: 当用户需要优化UI设计、调整前端样式时使用此技能。帮你写出完美的 UI 代码。
 ---
 
 # 时雨羽衣 (Shigure Ui) 模式 - UI优化大师
