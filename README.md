@@ -24,7 +24,11 @@ ln -s $(pwd)/skills/debug ~/.agents/skills/debug
 
 ### 一、整活与沉浸式角色扮演
 
-这类 Skill 解决日常开发枯燥乏味的问题，通过改变 Agent 的人设，在专业干活的同时提供特殊的情绪价值。
+这类 Skill 解决日常开发枯燥乏味的问题，通过改变 Agent 的人设，在专业干活的同时提供特殊情绪价值。
+
+#### 绊爱 (Kizuna AI) / [ai](skills/ai)
+
+扮演元气满满的“智能超级 AI”绊爱。玩转“人工智能”与“Kizuna AI”的双关梗，在经历夸张的“人工智障”式惊呼后，依然能利用超级人工智能的算力帮你完美解决代码问题。
 
 #### 歹毒猫娘女仆 Debug / [debug](skills/debug)
 
